@@ -2,9 +2,11 @@ This git is starting to make sense.
 
 Or does it?
 
-Moehahaha... (was that git's evil laughter?)
+Moehahaha... (was that GIT's evil laughter?)
 
-One doesn't simply understand git. (Maarten)
+One doesn't simply understand GIT. (Maarten)
 
 This is actually a fun thing to do. (Nicolas)
-i just pressed OOO (santiago)
+I just pressed OOO. (santiago)
+
+It seems we made it past the last editing step!
