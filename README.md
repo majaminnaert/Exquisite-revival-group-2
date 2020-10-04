@@ -10,3 +10,5 @@ I just pressed OOO. (santiago)
 It seems we made it past the last editing step!
  
 is this main or normalname branch?
+
+Looking forward for the next steps! ( Maryame)
